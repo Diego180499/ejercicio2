@@ -1,4 +1,0 @@
-esto es una palabra 1 2 3 456
-curso de COMPILADORES1
-Ingenieria en Ciencias y Sistemas 2022
-ejemplo1 y ejemplo2
